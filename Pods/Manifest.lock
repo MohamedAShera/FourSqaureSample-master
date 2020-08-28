@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Bond (7.6.6):
+    - Differ (~> 1.4)
+    - ReactiveKit (~> 3.14)
+  - Differ (1.4.5)
+  - JGProgressHUD (2.0.4)
+  - KeychainSwift (16.0.1)
+  - moa (12.0.0)
+  - PromisesObjC (1.2.9)
+  - PromisesSwift (1.2.9):
+    - PromisesObjC (= 1.2.9)
+  - ReachabilitySwift (4.3.1)
+  - ReactiveKit (3.17.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.3)
+  - Bond (~> 7.6.0)
+  - JGProgressHUD (~> 2.0.3)
+  - KeychainSwift (~> 16.0)
+  - moa
+  - PromisesSwift (~> 1.2.3)
+  - ReachabilitySwift (~> 4.3.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Bond
+    - Differ
+    - JGProgressHUD
+    - KeychainSwift
+    - moa
+    - PromisesObjC
+    - PromisesSwift
+    - ReachabilitySwift
+    - ReactiveKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Bond: 9e7d901cf4ed825b6004a93dd0a7f1c7479e2834
+  Differ: 3b6bd78e2b20cc795d9a86f7641d087524e4273e
+  JGProgressHUD: 62658b14e72cccf179efc7a13bcb54d30b92fc22
+  KeychainSwift: 4209611373ca4a098e09b1e547eebd87c544dcc4
+  moa: e2346f12de6c65bbca4d103950d45db9e46785ef
+  PromisesObjC: b48e0338dbbac2207e611750777895f7a5811b75
+  PromisesSwift: 991ad88e9851c45410d6697d1fe5df88fd3deb08
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  ReactiveKit: f578a74d3555296ea61fab228f5245a4ed7b4b27
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: c8a88f90cecb1a56572c865fda154448b88a6f78
+
+COCOAPODS: 1.9.2

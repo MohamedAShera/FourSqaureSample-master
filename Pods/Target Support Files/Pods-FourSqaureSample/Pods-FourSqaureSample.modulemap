@@ -1,0 +1,6 @@
+framework module Pods_FourSqaureSample {
+  umbrella header "Pods-FourSqaureSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
